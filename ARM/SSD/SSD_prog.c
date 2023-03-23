@@ -2,7 +2,7 @@
  * SSD_prog.c
  *
  *  Created on: ٠١‏/٠٢‏/٢٠٢٣
- *      Author: muhsen
+ *      Author: AgAmIa
  */
 
 #include "STD_TYPES.h"
