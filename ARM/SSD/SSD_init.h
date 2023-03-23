@@ -2,7 +2,7 @@
  * SSD_init.h
  *
  *  Created on: ٠١‏/٠٢‏/٢٠٢٣
- *      Author: houras
+ *      Author: AgAmIa
  */
 
 #ifndef SSD_SSD_INIT_H_
