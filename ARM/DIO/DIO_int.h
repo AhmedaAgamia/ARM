@@ -2,7 +2,7 @@
  * GPIO_int.h
  *
  *  Created on: ٠١‏/٠٣‏/٢٠٢٣
- *      Author: houras
+ *      Author: AgAmIa
  */
 
 #ifndef DIO_INT_H_
