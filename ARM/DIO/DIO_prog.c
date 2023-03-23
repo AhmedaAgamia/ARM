@@ -2,7 +2,7 @@
  * GPIO_prog.c
  *
  *  Created on: ٠١‏/٠٣‏/٢٠٢٣
- *      Author: houras
+ *      Author: AgAmIa
  */
 
 #include"STD_TYPES.h"
