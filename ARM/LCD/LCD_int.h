@@ -2,7 +2,7 @@
  * LCD_int.h
  *
  *  Created on: Feb 5, 2023
- *      Author: aya_enan
+ *      Author: AgAmIa
  */
 
 #ifndef LCD_LCD_INT_H_
