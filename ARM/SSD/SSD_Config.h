@@ -2,7 +2,7 @@
  * SSD_Config.h
  *
  *  Created on: ٠١‏/٠٢‏/٢٠٢٣
- *      Author: houras
+ *      Author: AgAmIa
  */
 
 #ifndef SSD_SSD_CONFIG_H_
